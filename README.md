@@ -22,4 +22,6 @@ MySQL allows us to import the data from csv, json files into the tables. You are
   >5.Follow the steps of the wizard and the data will be imported in respective tables  
   >6.Repeat this process for all the tables in the schema.  
 
-![alt text](https://github.com/manishkadam007/SQL-Assignment/blob/master/Data/Data%20Description.PNG)
+### Data Description
+
+   ![alt text](https://github.com/manishkadam007/SQL-Assignment/blob/master/Data/Data%20Description.PNG)
